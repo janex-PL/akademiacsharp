@@ -1,0 +1,3 @@
+Dnia 2018-12-11 22:22:55 odnotowano zamówienie 1234, w którym zamówiono Koszulka w ilości 1 w cenie 25,99zł za sztukę
+Dnia 2018-12-11 22:22:55 odnotowano zamówienie 3012, w którym zamówiono Bluza w ilości 2 w cenie 55,99zł za sztukę
+Dnia 2018-12-11 22:22:55 odnotowano zamówienie 1010, w którym zamówiono Spodnie w ilości 4 w cenie 10,99zł za sztukę
